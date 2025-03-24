@@ -39,13 +39,20 @@ To meet these requirements, the solution is broken down into the following compo
 
 **Technology Stack**
 
-  Azure Data Factory (ADF): For orchestrating data movement and transformation.
-  Azure Data Lake Storage (ADLS): For storing raw and processed data.
-  Azure Databricks: For data transformation and processing.
-  Azure Synapse Analytics: For data warehousing and SQL-based analytics.
-  Power BI: For data visualization and reporting.
-  Azure Key Vault: For securely managing credentials and secrets.
-  SQL Server (On-Premises): Source of customer and sales data.
+  Azure Data Factory (ADF): For orchestrating data movement and transformation. 
+  
+  Azure Data Lake Storage (ADLS): For storing raw and processed data. 
+  
+  Azure Databricks: For data transformation and processing. 
+  
+  Azure Synapse Analytics: For data warehousing and SQL-based analytics. 
+  
+  Power BI: For data visualization and reporting. 
+  
+  Azure Key Vault: For securely managing credentials and secrets. 
+  
+  SQL Server (On-Premises): Source of customer and sales data. 
+  
 
 **Setup Instructions**
 
